@@ -10,7 +10,7 @@ First the players play Choice of Combats, where their moves are made into a sequ
 
 ![Choice of Combats](/pics/linaia-cc.png)
 
-Players then play the other combats according to this sequence. After <i>r</i> rounds, the player with the highest score wins.
+Players then play the other combats in this sequence. The player with the highest score after <i>r</i> rounds wins each game.
 
 ![Combats Alpha, Beta, Gamma](/pics/linaia-abg.png)
 
@@ -43,8 +43,8 @@ The extra parameter `proportional` (False by default) makes the number of rounds
 
 <ul>
 <li> With 10 games of 5 rounds each, Linus wins about 3.2% of the time (0.5% ties, 96.3% Apollo).
-<li> At 1 round (no CC), Linus wins 25% of the time (13.5% ties, 61.5% Apollo).</li>
-<li> At 1 round (+CC), Linus wins 39.6% of the time (8.77% ties, 51.6% Apollo).</li>
+<li> At 1 round (excluding wins from Choice of Combats), Linus wins 25% of the time (13.5% ties, 61.5% Apollo).</li>
+<li> At 1 round (including wins from Choice of Combats), Linus wins 39.6% of the time (8.77% ties, 51.6% Apollo).</li>
 <li> Runtime is linear in iterations (1000 games take 1.22 seconds, 10,000 games take 12.5s).</li>
 </ul>
 
