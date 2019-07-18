@@ -38,7 +38,7 @@ The extra parameter `proportional` (False by default) makes the number of rounds
 <li> The higher the number of rounds and/or sequences, the less are Linus's odds of winning.</li>
 <li> Including wins from Choice of Combats (cc.counts=T) raises Linus's chances considerably.</li>
 <li> If rounds are proportional to game frequency,  Linus's odds increase — by making rounds shorter.</li>
-<li> Linus wins more from 5 rounds of 1 game (n,5,1) than 1 round of 5 games (n,1,5).</li>
+<li> Linus wins more from 5 rounds in 1 game (n,5,1) than 1 round in 5 games (n,1,5).</li>
 </ul>
 
 <ul>
