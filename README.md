@@ -54,3 +54,11 @@ The extra parameter `proportional` (False by default) makes the number of rounds
 <li>Make graphs to show how results change with different parameters</li>
 <li>Make it easier to use different mixed strategies besides the optimal</li>
 </ul>
+
+## References
+<ul>
+<li>Bentley, J. (<a href="http://jtylerbentley.com/files/FormalHarmonic.pdf">2014</a>). “The Formal & Harmonic Structures of Linaia-Agon.” Working Paper.
+<li>DeLio, T. (<a href="http://rohandrape.net/ut/rttcc-text/DeLio1987b.pdf">1987</a>). “Structure and Strategy: Iannis Xenakis’ Linaia-Agon.” <i>Interface</i> 16(3), pp. 143-64</li>
+<li>Joncas, G. (2019). “Stochastic Game Theory and Iannis Xenakis.” Working paper.</li>
+<li>Sluchin, B. (<a href="http://www.iannis-xenakis.org/Articles/Sluchin.pdf">2005</a>). “Linaia-Agon: Towards an Interpretation Based on the Theory,” in Georgaki, A. & Solomos, M. (Eds.). (2005). <i>Proceedings of International Symposium Iannis Xenakis</i>. Athens: University of Athens, pp. 299-311
+</ul>
