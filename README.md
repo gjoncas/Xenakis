@@ -6,11 +6,11 @@ The piece consists of four zero-sum game matrices: Choice of Combats, Combat α,
 The piece is based on a mythical duel between the musician Linus (on trombone) and the god Apollo (on horn and/or tuba).
 Musically, moves in each game correspond to musical notes (Choice of Combats) or a 20-bar measure of music.
 
-First the players play Choice of Combats, where their moves are made into a sequence, e.g. (α, β), (γ, γ) → (α, β, γ, γ)
+First the players play Choice of Combats, where their moves are made into a sequence, e.g. (α, β), (γ, γ) → (α, β, γ, γ).
 
 ![Choice of Combats](/pics/linaia-cc.png)
 
-Players then play the other combats in this sequence. The player with the highest score after <i>r</i> rounds wins each game.
+Players then play the other combats in this sequence. In each game, the highest-scoring player after <i>r</i> rounds wins.
 
 ![Combats Alpha, Beta, Gamma](/pics/linaia-abg.png)
 
